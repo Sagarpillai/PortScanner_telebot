@@ -129,7 +129,7 @@ Scan result for 142.250.180.14
 
 ## ✨ Author
 
-[**Raihan**](https://github.com/<your‑username>)  – Cybersecurity student & red‑team enthusiast.
+[**Raihan**](https://github.com/Raihan93-coder)  – Cybersecurity student & red‑team enthusiast.
 
 ---
 
