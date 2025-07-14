@@ -39,6 +39,8 @@ def receive_message(message):
             if os.path.exists("open_ports.json"):
                 # cheking if the output file is present 
                 bot.send_message(message.chat.id,"Scanning completed 💻\nto get result send /result")
+    if message.text == "/scan":
+        bot.reply_to(message,"Error! IP address not given") # if user only give the command and no IP address
     if message.text == "/result":
         if os.path.exists("open_ports.json"):
             with open("open_ports.json") as f:
