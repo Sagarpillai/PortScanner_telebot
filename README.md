@@ -135,5 +135,5 @@ Scan result for 142.250.180.14
 
 ## 🛑 Disclaimer
 
-> This project is **for educational purposes only**. Use it responsibly.
+> This project is **for educational purposes only**. Use it responsibly okay?
 
